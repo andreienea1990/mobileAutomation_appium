@@ -7,6 +7,7 @@ pip install robotframework
 npm install -g appium
 4. Set up your environment: You will also need to set up your environment by installing the necessary libraries and drivers. 
 You can do this by following the instructions in the Appium documentation.
+https://appium.io/docs/en/about-appium/getting-started/#installation-via-desktop-app-download
 5. Create a new Robot Framework project:
  Create a new Robot Framework project by running the following command in your terminal: 
  robot --create <project_name>.
